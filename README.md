@@ -42,4 +42,100 @@ Aspiring Data Analyst | Python | SQL | MySQL | Power BI | Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+</p>
+
+### ☁️ Cloud & Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛍️ Customer Shopping Behavior Analysis
+
+**Python | Pandas | MySQL | SQL | Power BI**
+
+End-to-end customer shopping behavior analysis using transactional data to generate meaningful business insights.
+
+🔗 **Repository:** [Customer Shopping Behavior Analysis](https://github.com/kishork1725/customer-shopping-behavior-analysis)
+
+---
+
+### 📊 Retail Sales Analysis — SQL
+
+**MySQL | SQL | Data Analysis**
+
+Analyzed retail sales data using SQL to identify customer behavior, product performance, sales trends, and important business insights.
+
+🔗 **Repository:** [Retail Sales Analysis](https://github.com/kishork1725/retail-sales-analysis-SQL)
+
+---
+
+### 📈 Blinkit Sales Analysis
+
+**Power BI | Power Query | DAX**
+
+Interactive sales analysis dashboard built using Power BI to visualize sales performance and generate business insights.
+
+🔗 **Repository:** [Blinkit Sales Analysis](https://github.com/kishork1725/Blinkit-Sales-Analysis-PowerBI)
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Advanced Python
+- 📊 Advanced Data Analytics
+- 🗄️ Advanced SQL
+- 📈 Power BI & DAX
+- 🧠 Machine Learning Algorithms
+
+---
+
+## 💼 Career Interests
+
+I'm interested in opportunities related to:
+
+- 📊 Data Analyst
+- 🤖 AI/ML Intern
+- 🧠 Machine Learning
+- 📈 Business Intelligence
+- 💻 Data Science
+
+---
+
+## 🏆 Certifications
+
+- ☁️ **Oracle Cloud Infrastructure Certified AI Foundations Associate**
+- 🗄️ **Database for Developers — Oracle**
+- 🐍 **Python for Data Science — NPTEL**
+- 📊 **Data Analytics Job Simulation — Deloitte**
+- ☁️ **Microsoft Azure Fundamentals — AZ-900**
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/kishork1725">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:kishork1725@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+> 💬 I'm always interested in learning, collaborating on data projects, and exploring new opportunities in Data Analytics and AI/ML.
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <i>Turning data into insights and continuously learning something new.</i>
+</p>
