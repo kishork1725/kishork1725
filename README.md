@@ -5,8 +5,8 @@ Aspiring Data Analyst | Python | SQL | MySQL | Power BI | Machine Learning
 </h3>
 
 <p align="center">
-  <a href="https://github.com/kishorkhandagle">
-    <img src="https://img.shields.io/badge/GitHub-kishorkhandagle-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/kishork1725">
+    <img src="https://img.shields.io/badge/GitHub-kishork1725-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
@@ -56,21 +56,11 @@ Aspiring Data Analyst | Python | SQL | MySQL | Power BI | Machine Learning
 
 ## 📌 Featured Projects
 
-### 📊 Retail Sales Analysis — SQL
-
-**MySQL | SQL | Data Analysis**
-
-Analyzed retail sales data using SQL to identify customer behavior, product performance, sales trends, and important business insights.
-
-🔗 **Repository:** `retail-sales-analysis-SQL`
-
----
-
 ### 🛍️ Customer Shopping Behavior Analysis
 
 **Python | Pandas | MySQL | SQL | Power BI**
 
-End-to-end customer shopping behavior analysis using transactional data.
+End-to-end customer shopping behavior analysis using transactional data to generate meaningful business insights.
 
 **Key areas:**
 - Data cleaning and preprocessing
@@ -82,7 +72,17 @@ End-to-end customer shopping behavior analysis using transactional data.
 - Interactive Power BI dashboard
 - Business recommendations
 
-🔗 **Repository:** `customer-shopping-behavior-analysis`
+🔗 **Repository:** [Customer Shopping Behavior Analysis](https://github.com/kishork1725/customer-shopping-behavior-analysis)
+
+---
+
+### 📊 Retail Sales Analysis — SQL
+
+**MySQL | SQL | Data Analysis**
+
+Analyzed retail sales data using SQL to identify customer behavior, product performance, sales trends, and important business insights.
+
+🔗 **Repository:** [Retail Sales Analysis](https://github.com/kishork1725/retail-sales-analysis-SQL)
 
 ---
 
@@ -92,7 +92,7 @@ End-to-end customer shopping behavior analysis using transactional data.
 
 Interactive sales analysis dashboard built using Power BI to visualize sales performance and generate business insights.
 
-🔗 **Repository:** `Blinkit-Sales-Analysis-PowerBI`
+🔗 **Repository:** [Blinkit Sales Analysis](https://github.com/kishork1725/Blinkit-Sales-Analysis-PowerBI)
 
 ---
 
@@ -129,7 +129,7 @@ I'm interested in opportunities related to:
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/kishorkhandagle">
+  <a href="https://github.com/kishork1725">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:kishork1725@gmail.com">
@@ -138,18 +138,6 @@ I'm interested in opportunities related to:
 </p>
 
 > 💬 I'm always interested in learning, collaborating on data projects, and exploring new opportunities in Data Analytics and AI/ML.
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishorkhandagle&show_icons=true&theme=transparent&hide_border=true" alt="Kishor's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorkhandagle&theme=transparent&hide_border=true" alt="GitHub Streak">
-</p>
 
 ---
 
